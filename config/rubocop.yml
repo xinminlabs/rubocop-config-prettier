@@ -100,15 +100,12 @@ Layout/FirstMethodArgumentLineBreak:
 Layout/FirstMethodParameterLineBreak:
   Enabled: false
 
-Layout/FirstParameterIndentation:
-  Enabled: false
-
 # Layout/HeredocArgumentClosingParenthesis
 
-Layout/IndentArray:
+Layout/IndentAssignment:
   Enabled: false
 
-Layout/IndentAssignment:
+Layout/IndentFirstArgument:
   Enabled: false
 
 Layout/IndentFirstArrayElement:
@@ -118,9 +115,6 @@ Layout/IndentFirstHashElement:
   Enabled: false
 
 Layout/IndentFirstParameter:
-  Enabled: false
-
-Layout/IndentHash:
   Enabled: false
 
 # Layout/IndentHeredoc
