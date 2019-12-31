@@ -1,16 +1,13 @@
 Layout/AccessModifierIndentation:
   Enabled: false
 
-Layout/AlignArguments:
+Layout/ArgumentAlignment:
   Enabled: false
 
-Layout/AlignArray:
+Layout/ArrayAlignment:
   Enabled: false
 
-Layout/AlignHash:
-  Enabled: false
-
-Layout/AlignParameters:
+Layout/AssingmentIndentation:
   Enabled: false
 
 Layout/BlockAlignment:
@@ -88,7 +85,16 @@ Layout/EndOfLine:
 Layout/ExtraSpacing:
   Enabled: false
 
+Layout/FirstArgumentIndentation:
+  Enabled: false
+
+Layout/FirstArrayElementIndentation:
+  Enabled: false
+
 Layout/FirstArrayElementLineBreak:
+  Enabled: false
+
+Layout/FirstHashElementIndentation:
   Enabled: false
 
 Layout/FirstHashElementLineBreak:
@@ -100,24 +106,15 @@ Layout/FirstMethodArgumentLineBreak:
 Layout/FirstMethodParameterLineBreak:
   Enabled: false
 
+Layout/FirstParameterIndentation:
+  Enabled: false
+
 # Layout/HeredocArgumentClosingParenthesis
 
-Layout/IndentAssignment:
+Layout/HashAlignment:
   Enabled: false
 
-Layout/IndentFirstArgument:
-  Enabled: false
-
-Layout/IndentFirstArrayElement:
-  Enabled: false
-
-Layout/IndentFirstHashElement:
-  Enabled: false
-
-Layout/IndentFirstParameter:
-  Enabled: false
-
-# Layout/IndentHeredoc
+# Layout/HeredocIndentation
 
 Layout/IndentationConsistency:
   Enabled: false
@@ -128,7 +125,7 @@ Layout/IndentationWidth:
 Layout/InitialIndentation:
   Enabled: false
 
-Layout/LeadingBlankLines:
+Layout/LeadingEmptyLines:
   Enabled: false
 
 # Layout/LeadingCommentSpace
@@ -165,6 +162,9 @@ Layout/MultilineMethodDefinitionBraceLayout:
   Enabled: false
 
 Layout/MultilineOperationIndentation:
+  Enabled: false
+
+Layout/ParameterAlignment:
   Enabled: false
 
 Layout/RescueEnsureAlignment:
@@ -245,7 +245,7 @@ Layout/SpaceInsideStringInterpolation:
 Layout/Tab:
   Enabled: false
 
-Layout/TrailingBlankLines:
+Layout/TrailingEmptyLines:
   Enabled: false
 
 Metrics/LineLength:
