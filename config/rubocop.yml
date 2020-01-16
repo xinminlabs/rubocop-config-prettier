@@ -7,7 +7,7 @@ Layout/ArgumentAlignment:
 Layout/ArrayAlignment:
   Enabled: false
 
-Layout/AssingmentIndentation:
+Layout/AssignmentIndentation:
   Enabled: false
 
 Layout/BlockAlignment:
