@@ -248,7 +248,7 @@ Layout/Tab:
 Layout/TrailingEmptyLines:
   Enabled: false
 
-Metrics/LineLength:
+Layout/LineLength:
   Enabled: false
 
 Layout/TrailingWhitespace:
