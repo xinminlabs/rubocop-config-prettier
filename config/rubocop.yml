@@ -260,6 +260,15 @@ Style/BlockDelimiters:
 Style/CommandLiteral:
   Enabled: false
 
+Style/EmptyBlockParameter:
+  Enabled: false
+
+Style/EmptyLambdaParameter:
+  Enabled: false
+
+Style/EmptyMethod:
+  Enabled: false
+
 Style/HashSyntax:
   Enabled: false
 
