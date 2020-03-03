@@ -311,6 +311,9 @@ Style/NumericLiterals:
 Style/RedundantBegin:
   Enabled: false
 
+Style/RegexpLiteral:
+  Enabled: false
+
 Style/RescueModifier:
   Enabled: false
 
