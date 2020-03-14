@@ -130,6 +130,9 @@ Layout/LeadingEmptyLines:
 
 # Layout/LeadingCommentSpace
 
+Layout/LineLength:
+  Enabled: false
+
 Layout/MultilineArrayBraceLayout:
   Enabled: false
 
@@ -141,7 +144,6 @@ Layout/MultilineAssignmentLayout:
 
 Layout/MultilineBlockLayout:
   Enabled: false
-
 
 Layout/MultilineHashBraceLayout:
   Enabled: false
@@ -246,9 +248,6 @@ Layout/Tab:
   Enabled: false
 
 Layout/TrailingEmptyLines:
-  Enabled: false
-
-Metrics/LineLength:
   Enabled: false
 
 Layout/TrailingWhitespace:
