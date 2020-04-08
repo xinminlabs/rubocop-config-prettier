@@ -1,0 +1,370 @@
+# This is for xinminlabs-plugins-ruby
+
+Layout/AccessModifierIndentation:
+  Enabled: false
+
+Layout/ArgumentAlignment:
+  Enabled: false
+
+Layout/ArrayAlignment:
+  Enabled: false
+
+Layout/AssignmentIndentation:
+  Enabled: false
+
+Layout/BlockAlignment:
+  Enabled: false
+
+Layout/BlockEndNewline:
+  Enabled: false
+
+Layout/CaseIndentation:
+  Enabled: false
+
+# Layout/ClassStructure
+
+# Layout/ClosingHeredocIndentation
+
+Layout/ClosingParenthesisIndentation:
+  Enabled: false
+
+Layout/CommentIndentation:
+  Enabled: false
+
+Layout/ConditionPosition:
+  Enabled: false
+
+Layout/DefEndAlignment:
+  Enabled: false
+
+Layout/DotPosition:
+  Enabled: false
+
+Layout/ElseAlignment:
+  Enabled: false
+
+# Layout/EmptyComment
+
+# Layout/EmptyLineAfterGuardClause
+
+# Layout/EmptyLineAfterMagicComment
+
+# Layout/EmptyLineBetweenDefs
+
+Layout/EmptyLines:
+  Enabled: false
+
+Layout/EmptyLinesAroundAccessModifier:
+  Enabled: false
+
+Layout/EmptyLinesAroundArguments:
+  Enabled: false
+
+Layout/EmptyLinesAroundBeginBody:
+  Enabled: false
+
+Layout/EmptyLinesAroundBlockBody:
+  Enabled: false
+
+Layout/EmptyLinesAroundClassBody:
+  Enabled: false
+
+Layout/EmptyLinesAroundExceptionHandlingKeywords:
+  Enabled: false
+
+Layout/EmptyLinesAroundMethodBody:
+  Enabled: false
+
+Layout/EmptyLinesAroundModuleBody:
+  Enabled: false
+
+Layout/EndAlignment:
+  Enabled: false
+
+Layout/EndOfLine:
+  Enabled: false
+
+Layout/ExtraSpacing:
+  Enabled: false
+
+Layout/FirstArgumentIndentation:
+  Enabled: false
+
+Layout/FirstArrayElementIndentation:
+  Enabled: false
+
+Layout/FirstArrayElementLineBreak:
+  Enabled: false
+
+Layout/FirstHashElementIndentation:
+  Enabled: false
+
+Layout/FirstHashElementLineBreak:
+  Enabled: false
+
+Layout/FirstMethodArgumentLineBreak:
+  Enabled: false
+
+Layout/FirstMethodParameterLineBreak:
+  Enabled: false
+
+Layout/FirstParameterIndentation:
+  Enabled: false
+
+# Layout/HeredocArgumentClosingParenthesis
+
+Layout/HashAlignment:
+  Enabled: false
+
+# Layout/HeredocIndentation
+
+Layout/IndentationConsistency:
+  Enabled: false
+
+Layout/IndentationWidth:
+  Enabled: false
+
+Layout/InitialIndentation:
+  Enabled: false
+
+Layout/LeadingEmptyLines:
+  Enabled: false
+
+# Layout/LeadingCommentSpace
+
+Layout/LineLength:
+  Enabled: false
+
+Layout/MultilineArrayBraceLayout:
+  Enabled: false
+
+Layout/MultilineArrayLineBreaks:
+  Enabled: false
+
+Layout/MultilineAssignmentLayout:
+  Enabled: false
+
+Layout/MultilineBlockLayout:
+  Enabled: false
+
+Layout/MultilineHashBraceLayout:
+  Enabled: false
+
+Layout/MultilineHashKeyLineBreaks:
+  Enabled: false
+
+Layout/MultilineMethodArgumentLineBreaks:
+  Enabled: false
+
+Layout/MultilineMethodCallBraceLayout:
+  Enabled: false
+
+Layout/MultilineMethodCallIndentation:
+  Enabled: false
+
+Layout/MultilineMethodDefinitionBraceLayout:
+  Enabled: false
+
+Layout/MultilineOperationIndentation:
+  Enabled: false
+
+Layout/ParameterAlignment:
+  Enabled: false
+
+Layout/RescueEnsureAlignment:
+  Enabled: false
+
+Layout/SpaceAfterColon:
+  Enabled: false
+
+Layout/SpaceAfterComma:
+  Enabled: false
+
+Layout/SpaceAfterMethodName:
+  Enabled: false
+
+Layout/SpaceAfterNot:
+  Enabled: false
+
+Layout/SpaceAfterSemicolon:
+  Enabled: false
+
+Layout/SpaceAroundBlockParameters:
+  Enabled: false
+
+Layout/SpaceAroundEqualsInParameterDefault:
+  Enabled: false
+
+Layout/SpaceAroundKeyword:
+  Enabled: false
+
+Layout/SpaceAroundOperators:
+  Enabled: false
+
+Layout/SpaceBeforeBlockBraces:
+  Enabled: false
+
+Layout/SpaceBeforeComma:
+  Enabled: false
+
+Layout/SpaceBeforeComment:
+  Enabled: false
+
+Layout/SpaceBeforeFirstArg:
+  Enabled: false
+
+Layout/SpaceBeforeSemicolon:
+  Enabled: false
+
+Layout/SpaceInLambdaLiteral:
+  Enabled: false
+
+Layout/SpaceInsideArrayLiteralBrackets:
+  Enabled: false
+
+Layout/SpaceInsideArrayPercentLiteral:
+  Enabled: false
+
+Layout/SpaceInsideBlockBraces:
+  Enabled: false
+
+Layout/SpaceInsideHashLiteralBraces:
+  Enabled: false
+
+Layout/SpaceInsideParens:
+  Enabled: false
+
+Layout/SpaceInsidePercentLiteralDelimiters:
+  Enabled: false
+
+Layout/SpaceInsideRangeLiteral:
+  Enabled: false
+
+Layout/SpaceInsideReferenceBrackets:
+  Enabled: false
+
+Layout/SpaceInsideStringInterpolation:
+  Enabled: false
+
+Layout/Tab:
+  Enabled: false
+
+Layout/TrailingEmptyLines:
+  Enabled: false
+
+Layout/TrailingWhitespace:
+  Enabled: false
+
+Style/BlockDelimiters:
+  Enabled: false
+
+Style/CommandLiteral:
+  Enabled: false
+
+Style/EmptyBlockParameter:
+  Enabled: false
+
+Style/EmptyLambdaParameter:
+  Enabled: false
+
+Style/EmptyMethod:
+  Enabled: false
+
+Style/HashSyntax:
+  Enabled: false
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Style/IfWithSemicolon:
+  Enabled: false
+
+Style/Lambda:
+  Enabled: false
+
+Style/LambdaCall:
+  Enabled: false
+
+Style/MethodCallWithoutArgsParentheses:
+  Enabled: false
+
+Style/MethodDefParentheses:
+  Enabled: false
+
+Style/MultilineIfModifier:
+  Enabled: false
+
+Style/MultilineIfThen:
+  Enabled: false
+
+Style/MultilineMethodSignature:
+  Enabled: false
+
+Style/MultilineTernaryOperator:
+  Enabled: false
+
+Style/NestedTernaryOperator:
+  Enabled: false
+
+Style/NumericLiterals:
+  Enabled: false
+
+Style/RedundantBegin:
+  Enabled: false
+
+# Style/RegexpLiteral
+
+Style/RescueModifier:
+  Enabled: false
+
+Style/Semicolon:
+  Enabled: false
+
+Style/SingleLineMethods:
+  Enabled: false
+
+Style/StabbyLambdaParentheses:
+  Enabled: false
+
+Style/StringLiterals:
+  Enabled: false
+
+Style/StringLiteralsInInterpolation:
+  Enabled: false
+
+# Style/SymbolArray
+
+Style/SymbolProc:
+  Enabled: false
+
+Style/TrailingBodyOnClass:
+  Enabled: false
+
+Style/TrailingBodyOnMethodDefinition:
+  Enabled: false
+
+Style/TrailingBodyOnModule:
+  Enabled: false
+
+Style/TrailingCommaInArguments:
+  Enabled: false
+
+Style/TrailingCommaInArrayLiteral:
+  Enabled: false
+
+Style/TrailingCommaInHashLiteral:
+  Enabled: false
+
+Style/TrailingMethodEndStatement:
+  Enabled: false
+
+Style/VariableInterpolation:
+  Enabled: false
+
+Style/WhileUntilDo:
+  Enabled: false
+
+Style/WhileUntilModifier:
+  Enabled: false
+
+# Style/WordArray
