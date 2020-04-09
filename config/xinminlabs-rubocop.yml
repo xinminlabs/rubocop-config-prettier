@@ -334,8 +334,7 @@ Style/StringLiteralsInInterpolation:
 
 # Style/SymbolArray
 
-Style/SymbolProc:
-  Enabled: false
+# Style/SymbolProc
 
 Style/TrailingBodyOnClass:
   Enabled: false
