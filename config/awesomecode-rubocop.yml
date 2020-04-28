@@ -282,8 +282,7 @@ Style/IfWithSemicolon:
 Style/Lambda:
   Enabled: false
 
-Style/LambdaCall:
-  Enabled: false
+# Style/LambdaCall
 
 Style/MethodCallWithoutArgsParentheses:
   Enabled: false
