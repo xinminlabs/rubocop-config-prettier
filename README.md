@@ -3,6 +3,9 @@
 Turns off all rules that are unnecessary or might conflict with
 [prettier plugin ruby](https://github.com/prettier/plugin-ruby).
 
+`config/awesomecode-rubocop.yml` works for [our
+fork](https://github.com/xinminlabs/plugin-ruby).
+
 ## Installation
 
 Add this line to your application's Gemfile:
