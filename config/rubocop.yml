@@ -307,6 +307,9 @@ Style/NestedTernaryOperator:
 Style/NumericLiterals:
   Enabled: false
 
+Style/PercentLiteralDelimiters:
+  Enabled: false
+
 Style/RedundantBegin:
   Enabled: false
 
