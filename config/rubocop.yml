@@ -106,9 +106,6 @@ Layout/FirstMethodArgumentLineBreak:
 Layout/FirstMethodParameterLineBreak:
   Enabled: false
 
-Layout/FirstArgumentIndentation:
-  Enabled: false
-
 # Layout/HeredocArgumentClosingParenthesis
 
 Layout/HashAlignment:
